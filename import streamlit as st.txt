@@ -1,0 +1,17 @@
+import streamlit as st
+
+st.title("🎉 My Interactive Financial App 🎉")
+st.write("Welcome! This app will help reduce finance-related stress. 🚀")
+
+# Button for fun
+if st.button("Click Me!"):
+    st.success("🎊 Great job! You just got a boost of positive energy. 💪")
+
+# Sidebar
+st.sidebar.header("Options")
+st.sidebar.write("Here you can add more features!")
+
+# Interactive Input
+name = st.text_input("Enter Your Name:")
+if name:
+    st.write(f"Thank you, {name}! You are awesome! 😎")

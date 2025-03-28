@@ -1,29 +1,51 @@
+
+
 # 🚀 Crypto Clash – The Ultimate Finance Battle! ⚔️  
 
-📌 **Course Name:** AF3005 – Programming for Finance  
-📌 **Instructor:** Dr. Usama Arshad  
-📌 **Developed By:** Talia Mehmood  
-📌 **Technology Used:** Python, Streamlit, Pandas, Random, Time  
+**Course Name:** AF3005 – Programming for Finance  
+**Instructor Name:** Dr. Usama Arshad  
 
----
+## 📌 App Overview  
 
-## 🌟 App Overview  
-**Crypto Clash** is an **interactive finance web app** that blends **learning with fun** through gamified activities! 🎮💰  
-It helps users understand **financial concepts** by participating in **games and simulations.**  
+**Crypto Clash** is an interactive finance app that lets users learn and engage in financial activities through exciting games and challenges. The app is designed to improve financial literacy and decision-making skills in a fun and engaging way.  
 
-🔹 **Key Features:**  
-- **📊 Crypto Market Prediction Game** – Predict **UP** or **DOWN** and test your market instincts!  
-- **🧠 1v1 Finance Quiz Battle** – Compete with yourself in a finance-related quiz!  
-- **🎰 Risky Investment Challenge** – Make **risky** investment decisions and see how they play out!  
-- **🤖 AI Financial Advisor** – Upload **financial data** and receive AI-generated insights!  
-- **🎈 Fun UI & Interactive Effects** – Animations, balloons, and cool visual elements!  
+## 🎯 Features  
 
----
+✅ **1v1 Finance Quiz Battle:** Compete in a finance quiz against another player.  
+✅ **Crypto Market Prediction Game:** Predict the movement of crypto prices.  
+✅ **Risky Investment Challenge:** Test your investment skills by taking calculated risks.  
+✅ **AI Financial Advisor:** Upload financial data and get AI-powered insights on income, expenses, and savings.  
 
-## 🔧 Installation Guide (Run Locally)  
+## 🛠️ Installation Guide  
 
-### **1️⃣ Clone the Repository**  
-Open **Terminal** or **Command Prompt** and run:  
+To run the app locally, follow these steps:  
+
+### 1️⃣ Install Dependencies  
+Make sure **Python 3.x** is installed on your system. Then, install the required libraries using the command:  
+
 ```bash
-git clone [<YOUR_GITHUB_REPO_URL](https://github.com/taliamehmood1/Crypto-Clash-The-Ultimate-Finance-Battle-app/edit/main/README.md)
-cd crypto-clash-finance-battle
+pip install -r requirements.txt
+```  
+
+### 2️⃣ Run the App  
+Launch the Streamlit app using the following command:  
+
+```bash
+streamlit run app.py
+```  
+
+This will open the app in your default web browser.  
+
+## 🌍 Deployment Link  
+
+Try the app live on Streamlit:  
+🔗 [Crypto Clash – The Ultimate Finance Battle!](https://crypto-clash-the-ultimate-finance-battle-app-ni9htzajqdjutrgij.streamlit.app/)  
+
+
+
+## 🔗 GitHub Repository  
+
+Find the source code and contribute here:  
+[Crypto Clash Repository](https://github.com/yourusername/crypto-clash)  
+
+---
